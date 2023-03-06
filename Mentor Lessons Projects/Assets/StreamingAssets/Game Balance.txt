@@ -1,0 +1,2 @@
+PlayerScale=5
+DummyScale=1
